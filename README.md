@@ -1,6 +1,6 @@
 Visit website live at: [rentumbokon.github.io](https://rentumbokon.github.io)
 
-Below is the original README for Prologue Jekyll Theme:..
+Below is the original README for [Prologue Jekyll Theme](https://github.com/chrisbobbe/jekyll-theme-prologue):
 
 ---
 
