@@ -1,7 +1,14 @@
 ---
 layout: default
 ---
+<!-- 
+	This template is to generate the blog post
+-->
+
 {%- include header.html -%}
+<style>
+
+</style>
 
 <!-- Main -->
 <div id="main">
@@ -10,8 +17,12 @@ layout: default
 	  <div class="container">
 			<header>
 				<h2>{{- page.title -}}</h2>
-				<p>{% if page.author %}{{ page.author }}, {% endif %}{{- page.date | date_to_long_string -}}</p>
 			</header>
+			<p>
+				Renard Tumbokon<br>
+				{% if page.blog %}<span style="text-transform: capitalize;"><a href="{{ absolute_url }}/blog-{{- page.blog }}.html">{{- page.blog }}&nbsp;Blog</a>{% endif %}</span><br>
+				{{- page.date | date_to_long_string -}} 
+			</p>
 	    {{- content -}}
 	  </div>
 	</article>

@@ -8,6 +8,8 @@ $ bundle exec jekyll serve
 ```
 Preview site locally at: `http://localhost:4000`
 
+Jekyll Syntax: [Liquid](https://shopify.github.io/liquid/basics/introduction/)
+
 Below is the original README for [Prologue Jekyll Theme](https://github.com/chrisbobbe/jekyll-theme-prologue):
 
 ---
