@@ -22,6 +22,7 @@ It was published on the Google Play Store with over 5000 downloads until it was 
 <h3>Links</h3>
 <ul>
     <li><strike><a href="https://play.google.com/store/apps/details?id=com.kerblast.sssh&hl=en" target="_blank">Google Play Store Download</a></strike>&nbsp;<sub>Taken down due to versioning issues</sub></li>
+    <li><a href="https://github.com/rentumbokon/sssh" target="_blank">Github</a></li>       
     <li><a href="https://www.youtube.com/watch?v=KRt5o1AlrD8" target="_blank">Promo Video</a></li>
     <li><a href="https://smashboards.com/threads/frame-melee-and-smash-set-helper-released-creator-interview.413899/" target="_blank">Smashboards Interview Article</a></li>
 </ul>

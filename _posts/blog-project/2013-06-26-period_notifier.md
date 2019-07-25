@@ -3,7 +3,7 @@ title: CHS Period Notifier
 layout: post
 blog: project
 ---
-<strong>CHS Period Notifier is a web application compatible with desktop and mobile devices that notifies students, parents and staff of Cranford High School what period of the day it is.</strong>
+<strong>A web application compatible with desktop and mobile devices that notifies students, parents and staff of Cranford High School what period of the day it is.</strong>
 
 <h3>Motivation</h3>
 My high school guidance councilor would often complain to me that guidance councilors, parents, and administrators never know what class period of the day it is when looking at the clock. I created Period Notifier as an app that takes the current time and associates it to one of the eight periods in a high school day.
