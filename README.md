@@ -1,4 +1,4 @@
-Visit website live at: [rentumbokon.github.io](https://rentumbokon.github.io)
+Visit website live at: [rentumbokon.com](https://rentumbokon.com) or [rentumbokon.github.io](https://rentumbokon.github.io)
 
 Follow these instructions to run the site locally:  [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll)
 
@@ -49,8 +49,6 @@ Jekyll Syntax: [Liquid](https://shopify.github.io/liquid/basics/introduction/)
 
 
 
-
-Below is the original README for [Prologue Jekyll Theme](https://github.com/chrisbobbe/jekyll-theme-prologue):
 ---
 
 # Prologue - Jekyll Theme
