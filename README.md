@@ -10,8 +10,47 @@ Preview site locally at: `http://localhost:4000`
 
 Jekyll Syntax: [Liquid](https://shopify.github.io/liquid/basics/introduction/)
 
-Below is the original README for [Prologue Jekyll Theme](https://github.com/chrisbobbe/jekyll-theme-prologue):
+## To Do
+### Tech Blog
+- [ ] DI vs IoC
+- [ ] Hibernate
+- [ ] AOP
+- [ ] Maven
+- [ ] Spring Security
+- [ ] REST and APIs Convention and HATEOS and Richardson Maturity Model
+- [ ] MVC
+- [ ] Session vs Tokenization, and Cookies
+- [ ] Spring Boot Intro
+- [ ] Spring Boot - Exception Handling
+- [ ] Spring Data JPA Repository 
+- [ ] Microservices
+- [ ] Spring Cloud
+- [ ] ETL
+- [ ] Power BI / QV
+- [ ] Blockchain
+- [ ] Machine Learning 
+- [ ] CTCI stuff
+- [ ] Leetcode questions
+- [ ] AngularJS
+- [ ] Angular 2
+- [ ] Object Oriented Programming 
 
+### Guitar Blog
+### Board Game Blog
+### Life Blog
+### Video Game Blog
+### Project Blog
+- [X] Past Projects
+- [ ] JV5
+
+
+
+
+
+
+
+
+Below is the original README for [Prologue Jekyll Theme](https://github.com/chrisbobbe/jekyll-theme-prologue):
 ---
 
 # Prologue - Jekyll Theme
