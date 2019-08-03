@@ -35,6 +35,7 @@ Jekyll Syntax: [Liquid](https://shopify.github.io/liquid/basics/introduction/)
 - [ ] Angular 2
 - [ ] Object Oriented Programming 
 - [ ] Bootstrap 
+- [ ] Clean Code book 
 
 ### Guitar Blog
 ### Board Game Blog

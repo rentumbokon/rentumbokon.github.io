@@ -55,7 +55,7 @@ slack_url:
 dribbble_url:
 
 # Google Analytics Tracking ID goes here:
-google_analytics:
+google_analytics: UA-145063023-1
 
 # The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: rentumbokon/rentumbokon.github.io
