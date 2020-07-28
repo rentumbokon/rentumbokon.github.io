@@ -23,7 +23,7 @@ There are numerous more private polls that require users to know the exact URL o
 
 <h3>Links</h3>
 <ul>
-    <li><a href="http://winimap.herokuapp.com/" target="_blank">Website</a></li>
+    <li><a href="http://groupdecider.herokuapp.com/" target="_blank">Website</a></li>
     <li><a href="https://github.com/rentumbokon/winimap" target="_blank">Github</a></li>
 </ul>
 
